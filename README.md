@@ -2,6 +2,6 @@
 
 Badlands Installation:
 
-https://github.com/intelligentEarth/Carmen_BaseCase
+https://badlands.readthedocs.io/en/latest/install.html
 
 Follow propmpts from 'Python Package' heading.
